@@ -1,10 +1,10 @@
 # <span style="color:red"> **Framework components** </span>
 
-The field 
+### <span style="color:purple"> The field </span>
+    An empty grid
+    Can be any shape
 
-An empty grid
-Can be any shape
-add Codeadd Markdown
+
 The target 
 
 Randomly placed on the grid at the beginning of each scenario (unless otherwise specified)
