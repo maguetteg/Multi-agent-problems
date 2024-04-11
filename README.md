@@ -2,6 +2,8 @@
    The goal of this project is to simulate search and rescue operations by multiple agents within a relatively simple framework. 
    Collaborative and non-collaborative strategies will be tested and the performance of these strategies will be evaluated by Monte Carlo simulation. 
 
+
+
 # <span style="color:red"> **Framework components** </span>
 
 #### <span style="color:purple"> The field </span>
